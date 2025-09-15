@@ -6,7 +6,7 @@ Write, edit, and explore blogs with a clean and responsive interface.
 ## Features
 
 - **Create, edit, and delete posts**
-- ** see the list of posts
+- **see the list of posts
 - **Rich text editor** for writing blogs  
 - **Responsive UI** for desktop and mobile
 
